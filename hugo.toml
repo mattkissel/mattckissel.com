@@ -1,0 +1,47 @@
+baseURL = 'https://mattckissel.com/'
+languageCode = 'en-us'
+title = "Matt Kissel's Homepage"
+theme = 'portfolio'
+# sectionPagesMenu = 'main'
+buildDrafts = false
+
+
+[menus]
+    [[menus.main]]
+        name = 'Home'
+        pageRef = '/'
+        weight = 10
+
+    [[menus.main]]  
+        name = 'Posts'
+        pageRef = '/posts'
+        weight = 20
+
+    # [[menus.main]]
+    #     parent = 'Posts'
+    #     name = 'Categories'
+    #     pageRef = '/categories'
+    #     weight = 50
+
+    [[menus.main]]
+        name = 'Tags'
+        pageRef = '/tags'
+        weight = 30
+
+    [[menus.main]]
+        name = 'Resume'
+        pageRef = '/resume'
+        weight = 40
+
+    [[menus.footer]]
+        name = 'Terms'
+        pageRef = '/terms'
+        weight = 10
+        
+    [[menus.footer]]  
+        name = 'Privacy'
+        pageRef = '/privacy'
+        weight = 20
+        
+[markup.goldmark.renderer]
+    unsafe = true

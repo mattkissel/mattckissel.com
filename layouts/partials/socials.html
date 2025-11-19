@@ -1,0 +1,21 @@
+
+<div class="center-flex-justified">
+  <div class="social-link">
+    {{ $github_image := resources.Get "images/logos-and-icons/github-mark.png" }}
+    <a href="https://github.com/mattkissel/"> 
+      <img class="social-bug" src="{{ $github_image.RelPermalink }}" >
+    </a>
+  </div>
+  <!-- <div class="social-link">
+    {{ $twitch_image := resources.Get "images/logos-and-icons/twitch/Purple/TwitchGlitchPurple.png" }}
+    <a href="https://www.twitch.tv/mattotoda">
+      <img class="social-bug" src="{{ $twitch_image.RelPermalink }}" >
+    </a>
+  </div> -->
+  <div class="social-link">
+    {{ $linkedin_image := resources.Get "images/logos-and-icons/linkedin-Bug.png" }}
+    <a href="https://www.linkedin.com/in/matthew-kissel/">
+      <img class="social-bug" src="{{ $linkedin_image.RelPermalink }}" >
+    </a>
+  </div>
+</div>

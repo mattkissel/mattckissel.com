@@ -1,0 +1,11 @@
+<div id="picturebook">
+    {{ .Inner }}
+    <div id="story-buttons">
+  <button id="prev">Prev</button>
+    <button id="next">Next</button>
+    </div>
+    {{ $js := resources.Get "js/story.js" | minify | fingerprint }}
+  <script type="text/javascript" src="{{ $js.RelPermalink }}" integrity="{{ $js.Data.Integrity }}">
+      </script>
+
+</div>

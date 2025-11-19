@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Matt Kissel&#39;s Homepage</title>
+    <link>http://localhost:1313/tags/</link>
+    <description>Recent content in Tags on Matt Kissel&#39;s Homepage</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 19 Nov 2025 14:51:43 -0500</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>English</title>
+      <link>http://localhost:1313/tags/english/</link>
+      <pubDate>Wed, 19 Nov 2025 14:51:43 -0500</pubDate>
+      <guid>http://localhost:1313/tags/english/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Projects</title>
+      <link>http://localhost:1313/tags/projects/</link>
+      <pubDate>Wed, 19 Nov 2025 14:51:43 -0500</pubDate>
+      <guid>http://localhost:1313/tags/projects/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Teaching</title>
+      <link>http://localhost:1313/tags/teaching/</link>
+      <pubDate>Wed, 19 Nov 2025 14:51:43 -0500</pubDate>
+      <guid>http://localhost:1313/tags/teaching/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Web Design</title>
+      <link>http://localhost:1313/tags/web-design/</link>
+      <pubDate>Wed, 19 Nov 2025 14:51:43 -0500</pubDate>
+      <guid>http://localhost:1313/tags/web-design/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Riceball</title>
+      <link>http://localhost:1313/tags/riceball/</link>
+      <pubDate>Mon, 30 Jun 2025 22:07:48 -0400</pubDate>
+      <guid>http://localhost:1313/tags/riceball/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Ink</title>
+      <link>http://localhost:1313/tags/ink/</link>
+      <pubDate>Sun, 21 Apr 2024 19:27:10 -0400</pubDate>
+      <guid>http://localhost:1313/tags/ink/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

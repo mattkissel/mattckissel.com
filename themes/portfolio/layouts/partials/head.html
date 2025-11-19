@@ -1,0 +1,21 @@
+<!-- <pre> -->
+<!-- Type: {{ .Type }}
+Params.type: {{ .Params.type }}
+.Params.customType: {{ .Params.customType }}
+Kind: {{ .Kind }}
+Section: {{ .Section }}
+Draft: {{ .Draft }}
+Has custom.css: {{ if .Resources.GetMatch "custom.css" }}yes{{ else }}no{{ end }} -->
+<!-- </pre> -->
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width">
+<title>{{ if .IsHome }}{{ site.Title }}{{ else }}{{ printf "%s | %s" .Title site.Title }}{{ end }}</title>
+
+<!-- this partials are cached and it totally fucks with the ability to load the params -->
+{{ partialCached "head/css.html" . }}
+{{ partialCached "head/js.html" . }}
+
+{{ if eq .Type "story" }}
+  {{ $css := resources.Get "css/story.css" | minify | fingerprint }}
+  <link rel="stylesheet" href="{{ $css.RelPermalink }}" integrity="{{ $css.Data.Integrity }}">
+{{ end }}

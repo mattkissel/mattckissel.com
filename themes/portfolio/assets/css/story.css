@@ -1,0 +1,65 @@
+#picturebook {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 1em;
+  text-align: center;
+}
+
+.story-fig {
+  display: none;
+  width: 48%;
+  box-sizing: border-box;
+  margin: 1%;
+  vertical-align: top;
+  display: inline-block;
+}
+
+.story-fig img {
+  width: 100%;
+  height: auto;
+  border-radius: 4px;
+}
+
+.story-fig figcaption {
+  margin-top: 0.5em;
+  font-style: italic;
+  color: #444;
+}
+
+/* Container styling for the two-page spread */
+#spread {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+}
+
+
+/* .story-fig {
+  display: none;
+  opacity: 0;
+  transition: opacity 0.4s ease-in-out;
+  margin: 2em auto;
+  max-width: 700px;
+  text-align: center;
+}
+
+.story-fig img {
+  width: 100%;
+  height: auto;
+  border-radius: 4px;
+}
+
+.story-fig figcaption {
+  margin-top: 0.5em;
+  font-style: italic;
+  color: #444;
+}
+
+.story-fig.active {
+  display: block;
+  opacity: 1;
+}
+#story-buttons
+{
+  text-align: center;
+} */
