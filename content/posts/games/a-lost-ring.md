@@ -2,6 +2,7 @@
 title = 'A Lost Ring'
 date = 2024-04-21T19:27:10-04:00
 draft = false
+summary = 'A real-life and online treasure hunt for a ring of power'
 tags = ['ink']
 categories = ['games']
 +++

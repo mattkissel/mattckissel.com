@@ -3,7 +3,7 @@ title = 'Riceball Couple 2'
 date = 2025-07-01T00:02:40-04:00
 draft = true
 type = 'story'
-summary = 'This is a short story about a riceball couple'
+summary = 'A short story about a riceball couple'
 tags = ['riceball']
 categories = ['story']
 +++

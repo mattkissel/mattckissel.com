@@ -3,7 +3,7 @@ title = 'Riceball Couple 1'
 date = 2025-06-30T22:07:48-04:00
 draft = false
 type = 'story'
-summary = 'This is a short story about a riceball couple to practice the use of frequency words'
+summary = 'A short story about a riceball couple to practice the use of frequency words'
 tags = ['riceball']
 categories = ['story']
 +++

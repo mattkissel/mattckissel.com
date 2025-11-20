@@ -3,7 +3,7 @@ title = 'GaijinSensei.com Released'
 date = 2025-11-19T14:51:43-05:00
 draft = false
 summary = 'GaijinSensei.com - Repository of ESOL Lessons'
-tags = ['projects', 'web design', 'english','teaching']
+tags = ['web design', 'english','teaching']
 categories = ['teaching']
 +++
 

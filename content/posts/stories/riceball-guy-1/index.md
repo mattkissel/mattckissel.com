@@ -3,7 +3,7 @@ title = 'Riceball Guy 1'
 date = 2025-07-01T00:26:00-04:00
 draft = true
 type = 'story'
-summary = 'This is a short story about .....'
+summary = "A short story about Riceball Guy and the use of what's up?"
 tags = ['riceball']
 categories = ['story']
 +++

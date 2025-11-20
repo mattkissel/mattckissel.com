@@ -4,7 +4,7 @@ date = 2025-05-20T16:50:18+09:00
 draft = false
 customType = 'story'
 type = 'story'
-summary = 'This is a short story about a riceball lady to practice the use of "because"'
+summary = 'A short story about a riceball lady to practice the use of "because"'
 tags = ['riceball']
 categories = ['story']
 +++

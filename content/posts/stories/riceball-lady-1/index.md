@@ -4,7 +4,7 @@ date = 2025-05-19T16:50:18+09:00
 draft = false
 customType = 'story'
 type = 'story'
-summary = 'TThis is a short story about a riceball lady to practice the use of "so"'
+summary = 'A short story about a riceball lady to practice the use of "so"'
 tags = ['riceball']
 categories = ['story']
 +++

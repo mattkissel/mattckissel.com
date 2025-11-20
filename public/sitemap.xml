@@ -2,11 +2,29 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>http://localhost:1313/categories/</loc>
+    <lastmod>2025-11-19T14:51:43-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/english/</loc>
+    <lastmod>2025-11-19T14:51:43-05:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/posts/gaijin-sensei/</loc>
     <lastmod>2025-11-19T14:51:43-05:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/categories/</loc>
-    <lastmod>2025-06-30T22:07:48-04:00</lastmod>
+    <loc>http://localhost:1313/tags/projects/</loc>
+    <lastmod>2025-11-19T14:51:43-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/</loc>
+    <lastmod>2025-11-19T14:51:43-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/categories/teaching/</loc>
+    <lastmod>2025-11-19T14:51:43-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/teaching/</loc>
+    <lastmod>2025-11-19T14:51:43-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/web-design/</loc>
+    <lastmod>2025-11-19T14:51:43-05:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/riceball/</loc>
     <lastmod>2025-06-30T22:07:48-04:00</lastmod>
@@ -17,8 +35,14 @@
     <loc>http://localhost:1313/categories/story/</loc>
     <lastmod>2025-06-30T22:07:48-04:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/</loc>
-    <lastmod>2025-06-30T22:07:48-04:00</lastmod>
+    <loc>http://localhost:1313/posts/dinosauroscopes/dinosauroscopes/</loc>
+    <lastmod>2025-06-14T23:51:31-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/categories/goofs/</loc>
+    <lastmod>2025-06-14T23:51:31-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/goofs/</loc>
+    <lastmod>2025-06-14T23:51:31-05:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/posts/stories/riceball-lady-2/</loc>
     <lastmod>2025-05-20T16:50:18+09:00</lastmod>

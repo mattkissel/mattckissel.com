@@ -16,39 +16,46 @@
       <description>GaijinSensei.com - Repository of ESOL Lessons</description>
     </item>
     <item>
+      <title>Dinosauroscopes</title>
+      <link>http://localhost:1313/posts/dinosauroscopes/dinosauroscopes/</link>
+      <pubDate>Mon, 14 Jul 2025 23:51:31 -0500</pubDate>
+      <guid>http://localhost:1313/posts/dinosauroscopes/dinosauroscopes/</guid>
+      <description>Find out what dinosaur you are, and get your daily dinosauroscope</description>
+    </item>
+    <item>
       <title>Riceball Couple 1</title>
       <link>http://localhost:1313/posts/stories/riceball-couple-1/</link>
       <pubDate>Mon, 30 Jun 2025 22:07:48 -0400</pubDate>
       <guid>http://localhost:1313/posts/stories/riceball-couple-1/</guid>
-      <description>This is a short story about a riceball couple to practice the use of frequency words</description>
+      <description>A short story about a riceball couple to practice the use of frequency words</description>
     </item>
     <item>
       <title>Riceball Lady 2</title>
       <link>http://localhost:1313/posts/stories/riceball-lady-2/</link>
       <pubDate>Tue, 20 May 2025 16:50:18 +0900</pubDate>
       <guid>http://localhost:1313/posts/stories/riceball-lady-2/</guid>
-      <description>This is a short story about a riceball lady to practice the use of &amp;ldquo;because&amp;rdquo;</description>
+      <description>A short story about a riceball lady to practice the use of &amp;ldquo;because&amp;rdquo;</description>
     </item>
     <item>
       <title>Riceball Lady 1</title>
       <link>http://localhost:1313/posts/stories/riceball-lady-1/</link>
       <pubDate>Mon, 19 May 2025 16:50:18 +0900</pubDate>
       <guid>http://localhost:1313/posts/stories/riceball-lady-1/</guid>
-      <description>TThis is a short story about a riceball lady to practice the use of &amp;ldquo;so&amp;rdquo;</description>
+      <description>A short story about a riceball lady to practice the use of &amp;ldquo;so&amp;rdquo;</description>
     </item>
     <item>
       <title>A Lost Ring</title>
       <link>http://localhost:1313/posts/games/a-lost-ring/</link>
       <pubDate>Sun, 21 Apr 2024 19:27:10 -0400</pubDate>
       <guid>http://localhost:1313/posts/games/a-lost-ring/</guid>
-      <description>&lt;p&gt;A while back as a birthday present for my sister, I made a real life treasure hunt. The theme of this hunt was for a ring of power from Lord of the Rings.&lt;/p&gt;&#xA;&lt;p&gt;To test out the hunt I built a web version of the hunt using &lt;a href=&#34;https://www.inklestudios.com/ink/web-tutorial/&#34;&gt;Ink and Inky&lt;/a&gt;. It&amp;rsquo;s quite similar to, and was inspired by, my other treasure hunt, &lt;a href=&#34;http://localhost:1313/posts/games/champlains-treasure/&#34; title=&#34;About Us&#34;&gt;Champlain&amp;rsquo;s Treasure&lt;/a&gt;.&lt;/p&gt;&#xA;&lt;p&gt;You can find the digital version of A Lost Ring &lt;a href=&#34;https://smalltimegames.github.io/a-lost-ring/&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;</description>
+      <description>A real-life and online treasure hunt for a ring of power</description>
     </item>
     <item>
       <title>Champlains Treasure</title>
       <link>http://localhost:1313/posts/games/champlains-treasure/</link>
       <pubDate>Sun, 21 Apr 2024 19:26:58 -0400</pubDate>
       <guid>http://localhost:1313/posts/games/champlains-treasure/</guid>
-      <description>&lt;p&gt;A while back I made a treasure hunt for a friend to solve. This involved hiding random clues around their house and leading them from one clue to another. While I was making the hunt, I found myself wanting to test it out without remaking physical clues all the time.&lt;/p&gt;&#xA;&lt;p&gt;I decided to use &lt;a href=&#34;https://www.inklestudios.com/ink/web-tutorial/&#34;&gt;Ink and Inky&lt;/a&gt; to help me create a digital version of the hunt - a proof of concept. With Ink I was able to test for coherency and see if it would be fun. The difficulty was another story because it&amp;rsquo;s easy to solve the hunt when dealing with multiple choice.&lt;/p&gt;</description>
+      <description>A real-life and online hunt for the treasure of Samuel de Champlain</description>
     </item>
   </channel>
 </rss>

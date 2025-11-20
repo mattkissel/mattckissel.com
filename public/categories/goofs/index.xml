@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Goofs on Matt Kissel&#39;s Homepage</title>
+    <link>http://localhost:1313/categories/goofs/</link>
+    <description>Recent content in Goofs on Matt Kissel&#39;s Homepage</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 14 Jun 2025 23:51:31 -0500</lastBuildDate>
+    <atom:link href="http://localhost:1313/categories/goofs/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Dinosauroscopes</title>
+      <link>http://localhost:1313/posts/dinosauroscopes/dinosauroscopes/</link>
+      <pubDate>Sat, 14 Jun 2025 23:51:31 -0500</pubDate>
+      <guid>http://localhost:1313/posts/dinosauroscopes/dinosauroscopes/</guid>
+      <description>Find out what dinosaur you are, and get your daily dinosauroscope</description>
+    </item>
+  </channel>
+</rss>
