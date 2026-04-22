@@ -46,7 +46,13 @@
   
   <time datetime="2025-07-14T23:51:31-05:00">July 14, 2025</time>
 
-  <p>I recently made a <a href="https://mattkissel.github.io/dinosauroscopes/">site</a> that generates a daily <a href="https://mattkissel.github.io/dinosauroscopes/">Dinosauroscopes</a> using Puter.js. It makes a query once a day (for that visitor) and retrieves a dinosaur based horoscope. In order to get your daily dinosauroscope you need to accept the pop-up message from Puter. If you don&rsquo;t want to give it permission to run the query or hate the use of AI, feel free to click cancel and enjoy the Quiz and &ldquo;Dive into a Dino&rdquo; features.</p>
+  <p>I recently made a <a href="https://mattkissel.github.io/dinosauroscopes/">site</a> that generates a daily <a href="https://mattkissel.github.io/dinosauroscopes/">Dinosauroscopes</a> using Puter.js. It makes a query once a day (for that visitor) and retrieves a dinosaur based horoscope. In order to get your daily dinosauroscope you need to accept the pop-up message from Puter.</p>
+<p><img src="imgs/puteralert.png" alt="Puter Alert Image">
+{{ $image := .Resources.GetMatch &ldquo;./imgs/puteralert.png&rdquo; }}
+{{ with $image }}
+<img src="{{ $image.RelPermalink }}" width="{{ $image.Width }}" height="{{ $image.Height }}">
+{{ end }}
+If you don&rsquo;t want to give it permission to run the query or hate the use of AI, feel free to click cancel and enjoy the Quiz and &ldquo;Dive into a Dino&rdquo; features.</p>
 <p><a href="https://mattkissel.github.io/dinosauroscopes/">https://mattkissel.github.io/dinosauroscopes/</a></p>
 
   

@@ -1,26 +1,29 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Web Design on Matt Kissel&#39;s Homepage</title>
-    <link>http://localhost:1313/tags/web-design/</link>
-    <description>Recent content in Web Design on Matt Kissel&#39;s Homepage</description>
-    <generator>Hugo</generator>
+    <title>web design on Matt Kissel&#39;s Homepage</title>
+    <link>https://mattckissel.com/tags/web-design/</link>
+    <description>Recent content in web design on Matt Kissel&#39;s Homepage</description>
+    <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 19 Nov 2025 14:51:43 -0500</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/web-design/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 19 Nov 2025 14:51:43 -0500</lastBuildDate><atom:link href="https://mattckissel.com/tags/web-design/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>GaijinSensei.com Released</title>
-      <link>http://localhost:1313/posts/gaijin-sensei/</link>
+      <link>https://mattckissel.com/posts/gaijin-sensei/</link>
       <pubDate>Wed, 19 Nov 2025 14:51:43 -0500</pubDate>
-      <guid>http://localhost:1313/posts/gaijin-sensei/</guid>
-      <description>GaijinSensei.com - Repository of ESOL Lessons</description>
+      
+      <guid>https://mattckissel.com/posts/gaijin-sensei/</guid>
+      <description>GaijinSensei.com - An Online Collection of ESOL Lessons</description>
     </item>
+    
     <item>
       <title>Dinosauroscopes</title>
-      <link>http://localhost:1313/posts/dinosauroscopes/dinosauroscopes/</link>
-      <pubDate>Sat, 14 Jun 2025 23:51:31 -0500</pubDate>
-      <guid>http://localhost:1313/posts/dinosauroscopes/dinosauroscopes/</guid>
+      <link>https://mattckissel.com/posts/dinosauroscopes/</link>
+      <pubDate>Mon, 14 Jul 2025 23:51:31 -0500</pubDate>
+      
+      <guid>https://mattckissel.com/posts/dinosauroscopes/</guid>
       <description>Find out what dinosaur you are, and get your daily dinosauroscope</description>
     </item>
+    
   </channel>
 </rss>
