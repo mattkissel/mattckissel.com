@@ -3,8 +3,15 @@ title = 'Trivia Ticklers - The Phone Trivia Game'
 date = 2026-04-21T23:55:45-04:00
 draft = false
 summary = 'A Phone Trivia Game in React that exports to a scoreboard'
-tags = ['web design', 'react','trivia']
+tags = ['web design', 'react','trivia', 'portfolio']
 categories = ['programming']
+tech = ["React", "Vite", "IndexedDB"]
+github = "https://github.com/mattkissel/trivia-ticklers"
+links = [
+    {label = "Scoreboard",    url = "https://trivia.mattckissel.com"},
+    {label = "Trivia App",    url = "https://trivia-ticklers.vercel.app"}
+]
+
 +++
 
 [Trivia Ticklers](https://trivia-ticklers.vercel.app/) is one of my latest projects. You might be thinking, "Oh cool, a mobile app that lets me play trivia with my friends!" Wrong.

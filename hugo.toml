@@ -42,6 +42,13 @@ buildDrafts = false
         name = 'Privacy'
         pageRef = '/privacy'
         weight = 20
-        
+
+
+[outputs]
+  home = ["HTML", "JSON", "RSS"]
+  section = ["HTML", "JSON", "RSS"]
+  taxonomy = ["HTML", "JSON", "RSS"]
+  term = ["HTML", "JSON", "RSS"]
+  
 [markup.goldmark.renderer]
     unsafe = true

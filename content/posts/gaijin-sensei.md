@@ -3,8 +3,14 @@ title = 'GaijinSensei.com Released'
 date = 2025-11-19T14:51:43-05:00
 draft = false
 summary = 'GaijinSensei.com - An Online Collection of ESOL Lessons'
-tags = ['web design', 'english','teaching']
+tags = ['web design', 'english','teaching', 'portfolio']
 categories = ['teaching']
+tech = ["Google Drive", "Zensical", "Markdown"]
+github = "https://github.com/mattkissel/gaijinsensei.com"
+links = [
+    {label = "GaijinSensei.com",    url = "https://gaijinsensei.com/"},
+]
+
 +++
 
 I have released my website [GaijinSensei.com](https://gaijinsensei.com), a online resource full of English teaching and learning materials. It's still a work in progress and the framework it is built on, [Zensical](https://zensical.org/), is still in alpha.

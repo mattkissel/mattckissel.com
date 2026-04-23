@@ -3,8 +3,16 @@ title = 'Champlains Treasure'
 date = 2024-04-21T19:26:58-04:00
 draft = false
 summary = 'A real-life and online hunt for the treasure of Samuel de Champlain'
-tags = ['ink']
+tags = ['ink', 'portfolio']
 categories = ['games']
+
+tech = ["Game Design", "Ink"]
+github = "https://github.com/smalltimegames/champlains-treasure"
+links = [
+    {label = "Site",    url = "https://smalltimegames.github.io/champlains-treasure/"},
+    {label = "What is Ink?",    url = "https://www.inklestudios.com/ink/web-tutorial/"}
+]
+
 +++
 
 A while back I made a treasure hunt for a friend to solve. This involved hiding random clues around their house and leading them from one clue to another. While I was making the hunt, I found myself wanting to test it out without remaking physical clues all the time.

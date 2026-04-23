@@ -1,0 +1,90 @@
+[
+  {
+    "title": "Trivia Ticklers - The Phone Trivia Game",
+    "date": "2026-04-21",
+    "url": "https://mattckissel.com/posts/trivia-ticklers/",
+    "summary": "A Phone Trivia Game in React that exports to a scoreboard",
+    "tags": ["web design","react","trivia","portfolio"],
+    "tech": ["React","Vite","IndexedDB"],
+    "github": "https://github.com/mattkissel/trivia-ticklers",
+    "demo": "https://trivia.mattckissel.com",
+    "content": "Trivia Ticklers is one of my latest projects. You might be thinking, \u0026ldquo;Oh cool, a mobile app that lets me play trivia with my friends!\u0026rdquo; Wrong.\nTrivia Ticklers is imports a database of trivia and players and generates weekly matchups with a set of questions and lets you keep track of score. It is purpose built for a very specific type of trivia I play with some friends and family. Only the trivia master needs to use the app and everyone else just needs to answer their phone.\nAll the data is stored locally, so don\u0026rsquo;t go rogue and clear your cache, or at least export a backup of the data first.\nThe game exports a scoreboard JSON file which is used in the scoreboard site.\nThere is much refactoring to be done, but this years trivia has already started so it will be at least 6 more weeks before any more work is done on the app.\nI think the dream version of it would have a phone tree system where after a player is asked their questions, they would call the next person or group of people. Because as it is, the trivia master is a lot of work.\n"
+  },
+  {
+    "title": "GaijinSensei.com Released",
+    "date": "2025-11-19",
+    "url": "https://mattckissel.com/posts/gaijin-sensei/",
+    "summary": "GaijinSensei.com - An Online Collection of ESOL Lessons",
+    "tags": ["web design","english","teaching"],
+    "tech": null,
+    "github": null,
+    "demo": null,
+    "content": "I have released my website GaijinSensei.com, a online resource full of English teaching and learning materials. It\u0026rsquo;s still a work in progress and the framework it is built on, Zensical, is still in alpha.\nFeel free to check it out as I slowly but surely add and reorganize the content posted there.\n"
+  },
+  {
+    "title": "Dinosauroscopes",
+    "date": "2025-07-14",
+    "url": "https://mattckissel.com/posts/dinosauroscopes/",
+    "summary": "Find out what dinosaur you are, and get your daily dinosauroscope",
+    "tags": ["web design","goofs"],
+    "tech": null,
+    "github": null,
+    "demo": null,
+    "content": "I recently made a site that generates a daily Dinosauroscopes using Puter.js. It makes a query once a day (for that visitor) and retrieves a dinosaur based horoscope. In order to get your daily dinosauroscope you need to accept the pop-up message from Puter.\nIf you don\u0026rsquo;t want to give it permission to run the query or hate the use of AI, feel free to click cancel and enjoy the Quiz and \u0026ldquo;Dive into a Dino\u0026rdquo; features.\nhttps://mattkissel.github.io/dinosauroscopes/\n"
+  },
+  {
+    "title": "Riceball Couple 1",
+    "date": "2025-06-30",
+    "url": "https://mattckissel.com/posts/stories/riceball-couple-1/",
+    "summary": "A short story about a riceball couple to practice the use of frequency words",
+    "tags": ["riceball"],
+    "tech": null,
+    "github": null,
+    "demo": null,
+    "content": "\rMy boyfriend and I sometimes watch movies.\nWe often cuddle.\nHe usually sleeps late.\nI rarely snore.\nMy boyfriend never yells.\nI am almost always quiet\nHe frequently supports women\u0026rsquo;s rights.\nI occasionally dismantle the patriarchy\nWe often make out\nWe always communicate.\nWe generally have fun.\nWe always love each other.\nPrev\rNext\r"
+  },
+  {
+    "title": "Riceball Lady 2",
+    "date": "2025-05-20",
+    "url": "https://mattckissel.com/posts/stories/riceball-lady-2/",
+    "summary": "A short story about a riceball lady to practice the use of \u0026ldquo;because\u0026rdquo;",
+    "tags": ["riceball"],
+    "tech": null,
+    "github": null,
+    "demo": null,
+    "content": "This is some text I killed a stranger.\nBecause he asked me to smile.\nI killed a fashion designer.\nBecause he made pants without pockets.\nI killed my brother.\nBecause he left the toilet seat up.\nI killed my phone.\nBecause it only understands a man\u0026rsquo;s voice.\nI killed a woman in the bathroom.\nBecause she wouldn\u0026rsquo;t lend me a pad.\nI killed the supreme court.\nBecause they took my rights.\nPrev\rNext\r"
+  },
+  {
+    "title": "Riceball Lady 1",
+    "date": "2025-05-19",
+    "url": "https://mattckissel.com/posts/stories/riceball-lady-1/",
+    "summary": "A short story about a riceball lady to practice the use of \u0026ldquo;so\u0026rdquo;",
+    "tags": ["riceball"],
+    "tech": null,
+    "github": null,
+    "demo": null,
+    "content": "This is some text I went to work but I don\u0026rsquo;t have a car\nSo I took the train\nA pervert touched me\nso I killed him.\nI worked late but my boss doesn\u0026rsquo;t pay overtime\nSo I killed him\nI went home to my apartment\nI love my boyfriend\nBut he was cheating on me\nSo I killed him\nI went to sleep. It was a long day.\nPrev\rNext\r"
+  },
+  {
+    "title": "A Lost Ring",
+    "date": "2024-04-21",
+    "url": "https://mattckissel.com/posts/games/a-lost-ring/",
+    "summary": "A real-life and online treasure hunt for a ring of power",
+    "tags": ["ink"],
+    "tech": null,
+    "github": null,
+    "demo": null,
+    "content": "A while back as a birthday present for my sister, I made a real life treasure hunt. The theme of this hunt was for a ring of power from Lord of the Rings.\nTo test out the hunt I built a web version of the hunt using Ink and Inky. It\u0026rsquo;s quite similar to, and was inspired by, my other treasure hunt, Champlain\u0026rsquo;s Treasure.\nYou can find the digital version of A Lost Ring here.\n"
+  },
+  {
+    "title": "Champlains Treasure",
+    "date": "2024-04-21",
+    "url": "https://mattckissel.com/posts/games/champlains-treasure/",
+    "summary": "A real-life and online hunt for the treasure of Samuel de Champlain",
+    "tags": ["ink"],
+    "tech": null,
+    "github": null,
+    "demo": null,
+    "content": "A while back I made a treasure hunt for a friend to solve. This involved hiding random clues around their house and leading them from one clue to another. While I was making the hunt, I found myself wanting to test it out without remaking physical clues all the time.\nI decided to use Ink and Inky to help me create a digital version of the hunt - a proof of concept. With Ink I was able to test for coherency and see if it would be fun. The difficulty was another story because it\u0026rsquo;s easy to solve the hunt when dealing with multiple choice.\nYou can find the digital version here.\n"
+  }
+]
