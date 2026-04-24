@@ -1,12 +1,12 @@
 +++
-title = 'Dinosauroscopes'
+title = "Dinosauroscopes"
 date = 2025-07-14T23:51:31-05:00
 draft = false
-summary = 'Find out what dinosaur you are, and get your daily dinosauroscope'
-tags = ['web design', 'goofs', 'portfolio']
-categories = ['goofs']
+summary = "Find out what dinosaur you are, and get your daily dinosauroscope"
+tags = ["web design", "goofs"]
+categories = ["goofs", "portfolio"]
 
-tech = ["Javascript", "Puter.js", "AI"]
+skills = ["Javascript", "Puter.js", "AI"]
 github = "https://github.com/mattkissel/dinosauroscopes"
 links = [
     {label = "Live Site",    url = "https://mattkissel.github.io/dinosauroscopes/"},

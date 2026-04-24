@@ -1,11 +1,24 @@
 [
   {
+    "title": "portfolio",
+    "date": "2026-04-24",
+    "url": "https://mattckissel.com/categories/portfolio/",
+    "summary": "",
+    "tags": null,
+    "categories": null,
+    "skills": null,
+    "github": null,
+    "links": null,
+    "content": ""
+  },
+  {
     "title": "programming",
     "date": "2026-04-21",
     "url": "https://mattckissel.com/categories/programming/",
     "summary": "",
     "tags": null,
-    "tech": null,
+    "categories": null,
+    "skills": null,
     "github": null,
     "links": null,
     "content": ""
@@ -16,7 +29,8 @@
     "url": "https://mattckissel.com/categories/teaching/",
     "summary": "",
     "tags": null,
-    "tech": null,
+    "categories": null,
+    "skills": null,
     "github": null,
     "links": null,
     "content": ""
@@ -27,7 +41,8 @@
     "url": "https://mattckissel.com/categories/goofs/",
     "summary": "",
     "tags": null,
-    "tech": null,
+    "categories": null,
+    "skills": null,
     "github": null,
     "links": null,
     "content": ""
@@ -38,7 +53,8 @@
     "url": "https://mattckissel.com/categories/story/",
     "summary": "",
     "tags": null,
-    "tech": null,
+    "categories": null,
+    "skills": null,
     "github": null,
     "links": null,
     "content": ""
@@ -49,7 +65,8 @@
     "url": "https://mattckissel.com/categories/games/",
     "summary": "",
     "tags": null,
-    "tech": null,
+    "categories": null,
+    "skills": null,
     "github": null,
     "links": null,
     "content": ""

@@ -1,16 +1,11 @@
 +++
-title = 'Fancy Portfolio'
+title = "Fancy Portfolio"
 date = 2026-04-24T01:45:41-04:00
 draft = false
-#summary shows on list pages and on portfolio
-summary = 'A fancy portfolio, that grabs from a blog and freshens things up a bit' 
-#tags - searchable on the blog, add "portfolio" to display this page on the portfolio 
-tags = ["portfolio"] 
-#categories - use the 'story' for custom story styling, not sure if it has other uses
-categories = [] 
-#tech stack involved in this project, will show up as badges on the portfolio
-tech = ["Next.js", "React", "Tailwind CSS", "TypeScript"]
-#link to related github repository (if exists)
+summary = "A fancy portfolio that grabs posts from a blog and freshens things up a bit"
+tags = ["web design"] 
+categories = ["portfolio"] 
+skills = ["Next.js", "React", "Tailwind CSS", "TypeScript"]
 github = "https://github.com/mattkissel/fancy-portfolio" 
 links = [
     {label = "This site you're currently on", url = "https://portfolio.mattckissel.com/"},

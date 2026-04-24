@@ -1,12 +1,12 @@
 +++
-title = 'Champlains Treasure'
+title = "Champlains Treasure"
 date = 2024-04-21T19:26:58-04:00
 draft = false
-summary = 'A real-life and online hunt for the treasure of Samuel de Champlain'
-tags = ['ink', 'portfolio']
-categories = ['games']
+summary = "A real-life and online hunt for the treasure of Samuel de Champlain"
+tags = ["ink", "games"]
+categories = ["games", "portfolio"]
 
-tech = ["Game Design", "Ink"]
+skills = ["Game Design", "Ink"]
 github = "https://github.com/smalltimegames/champlains-treasure"
 links = [
     {label = "Site",    url = "https://smalltimegames.github.io/champlains-treasure/"},

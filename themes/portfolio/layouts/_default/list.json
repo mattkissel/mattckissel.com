@@ -8,7 +8,8 @@
     "url": {{ $page.Permalink | jsonify }},
     "summary": {{ $page.Summary | jsonify }},
     "tags": {{ $page.Params.tags | jsonify }},
-    "tech": {{ $page.Params.tech | jsonify }},
+    "categories": {{ $page.Params.categories | jsonify }},
+    "skills": {{ $page.Params.skills | jsonify }},
     "github": {{ $page.Params.github | jsonify }},
     "links": {{ $page.Params.links | jsonify }},
     "content": {{ $page.Plain | jsonify }}

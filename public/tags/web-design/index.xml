@@ -6,7 +6,16 @@
     <description>Recent content in web design on Matt Kissel&#39;s Homepage</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 21 Apr 2026 23:55:45 -0400</lastBuildDate><atom:link href="https://mattckissel.com/tags/web-design/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 24 Apr 2026 01:45:41 -0400</lastBuildDate><atom:link href="https://mattckissel.com/tags/web-design/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Fancy Portfolio</title>
+      <link>https://mattckissel.com/posts/projects/fancy-portfolio/</link>
+      <pubDate>Fri, 24 Apr 2026 01:45:41 -0400</pubDate>
+      
+      <guid>https://mattckissel.com/posts/projects/fancy-portfolio/</guid>
+      <description>A fancy portfolio that grabs posts from a blog and freshens things up a bit</description>
+    </item>
+    
     <item>
       <title>Trivia Ticklers - The Phone Trivia Game</title>
       <link>https://mattckissel.com/posts/projects/trivia-ticklers/</link>

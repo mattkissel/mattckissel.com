@@ -3,10 +3,19 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://mattckissel.com/categories/</loc>
-    <lastmod>2026-04-21T23:55:45-04:00</lastmod>
+    <lastmod>2026-04-24T01:45:41-04:00</lastmod>
   </url><url>
-    <loc>https://mattckissel.com/tags/portfolio/</loc>
-    <lastmod>2026-04-21T23:55:45-04:00</lastmod>
+    <loc>https://mattckissel.com/posts/projects/fancy-portfolio/</loc>
+    <lastmod>2026-04-24T01:45:41-04:00</lastmod>
+  </url><url>
+    <loc>https://mattckissel.com/categories/portfolio/</loc>
+    <lastmod>2026-04-24T01:45:41-04:00</lastmod>
+  </url><url>
+    <loc>https://mattckissel.com/tags/</loc>
+    <lastmod>2026-04-24T01:45:41-04:00</lastmod>
+  </url><url>
+    <loc>https://mattckissel.com/tags/web-design/</loc>
+    <lastmod>2026-04-24T01:45:41-04:00</lastmod>
   </url><url>
     <loc>https://mattckissel.com/categories/programming/</loc>
     <lastmod>2026-04-21T23:55:45-04:00</lastmod>
@@ -14,16 +23,10 @@
     <loc>https://mattckissel.com/tags/react/</loc>
     <lastmod>2026-04-21T23:55:45-04:00</lastmod>
   </url><url>
-    <loc>https://mattckissel.com/tags/</loc>
-    <lastmod>2026-04-21T23:55:45-04:00</lastmod>
-  </url><url>
     <loc>https://mattckissel.com/tags/trivia/</loc>
     <lastmod>2026-04-21T23:55:45-04:00</lastmod>
   </url><url>
     <loc>https://mattckissel.com/posts/projects/trivia-ticklers/</loc>
-    <lastmod>2026-04-21T23:55:45-04:00</lastmod>
-  </url><url>
-    <loc>https://mattckissel.com/tags/web-design/</loc>
     <lastmod>2026-04-21T23:55:45-04:00</lastmod>
   </url><url>
     <loc>https://mattckissel.com/tags/english/</loc>
@@ -72,6 +75,9 @@
     <lastmod>2024-04-21T19:27:10-04:00</lastmod>
   </url><url>
     <loc>https://mattckissel.com/posts/games/champlains-treasure/</loc>
+    <lastmod>2024-04-21T19:26:58-04:00</lastmod>
+  </url><url>
+    <loc>https://mattckissel.com/tags/games/</loc>
     <lastmod>2024-04-21T19:26:58-04:00</lastmod>
   </url><url>
     <loc>https://mattckissel.com/posts/</loc>

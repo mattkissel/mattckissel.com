@@ -5,7 +5,8 @@
     "url": "https://mattckissel.com/posts/games/a-lost-ring/",
     "summary": "A real-life and online treasure hunt for a ring of power",
     "tags": ["ink"],
-    "tech": null,
+    "categories": ["games"],
+    "skills": null,
     "github": null,
     "links": null,
     "content": "A while back as a birthday present for my sister, I made a real life treasure hunt. The theme of this hunt was for a ring of power from Lord of the Rings.\nTo test out the hunt I built a web version of the hunt using Ink and Inky. It\u0026rsquo;s quite similar to, and was inspired by, my other treasure hunt, Champlain\u0026rsquo;s Treasure.\nYou can find the digital version of A Lost Ring here.\n"
@@ -15,8 +16,9 @@
     "date": "2024-04-21",
     "url": "https://mattckissel.com/posts/games/champlains-treasure/",
     "summary": "A real-life and online hunt for the treasure of Samuel de Champlain",
-    "tags": ["ink","portfolio"],
-    "tech": ["Game Design","Ink"],
+    "tags": ["ink","games"],
+    "categories": ["games","portfolio"],
+    "skills": ["Game Design","Ink"],
     "github": "https://github.com/smalltimegames/champlains-treasure",
     "links": [{"label":"Site","url":"https://smalltimegames.github.io/champlains-treasure/"},{"label":"What is Ink?","url":"https://www.inklestudios.com/ink/web-tutorial/"}],
     "content": "A while back I made a treasure hunt for a friend to solve. This involved hiding random clues around their house and leading them from one clue to another. While I was making the hunt, I found myself wanting to test it out without remaking physical clues all the time.\nI decided to use Ink and Inky to help me create a digital version of the hunt - a proof of concept. With Ink I was able to test for coherency and see if it would be fun. The difficulty was another story because it\u0026rsquo;s easy to solve the hunt when dealing with multiple choice.\nYou can find the digital version here.\n"

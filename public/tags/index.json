@@ -1,11 +1,12 @@
 [
   {
-    "title": "portfolio",
-    "date": "2026-04-21",
-    "url": "https://mattckissel.com/tags/portfolio/",
+    "title": "web design",
+    "date": "2026-04-24",
+    "url": "https://mattckissel.com/tags/web-design/",
     "summary": "",
     "tags": null,
-    "tech": null,
+    "categories": null,
+    "skills": null,
     "github": null,
     "links": null,
     "content": ""
@@ -16,7 +17,8 @@
     "url": "https://mattckissel.com/tags/react/",
     "summary": "",
     "tags": null,
-    "tech": null,
+    "categories": null,
+    "skills": null,
     "github": null,
     "links": null,
     "content": ""
@@ -27,18 +29,8 @@
     "url": "https://mattckissel.com/tags/trivia/",
     "summary": "",
     "tags": null,
-    "tech": null,
-    "github": null,
-    "links": null,
-    "content": ""
-  },
-  {
-    "title": "web design",
-    "date": "2026-04-21",
-    "url": "https://mattckissel.com/tags/web-design/",
-    "summary": "",
-    "tags": null,
-    "tech": null,
+    "categories": null,
+    "skills": null,
     "github": null,
     "links": null,
     "content": ""
@@ -49,7 +41,8 @@
     "url": "https://mattckissel.com/tags/english/",
     "summary": "",
     "tags": null,
-    "tech": null,
+    "categories": null,
+    "skills": null,
     "github": null,
     "links": null,
     "content": ""
@@ -60,7 +53,8 @@
     "url": "https://mattckissel.com/tags/teaching/",
     "summary": "",
     "tags": null,
-    "tech": null,
+    "categories": null,
+    "skills": null,
     "github": null,
     "links": null,
     "content": ""
@@ -71,7 +65,8 @@
     "url": "https://mattckissel.com/tags/goofs/",
     "summary": "",
     "tags": null,
-    "tech": null,
+    "categories": null,
+    "skills": null,
     "github": null,
     "links": null,
     "content": ""
@@ -82,7 +77,8 @@
     "url": "https://mattckissel.com/tags/riceball/",
     "summary": "",
     "tags": null,
-    "tech": null,
+    "categories": null,
+    "skills": null,
     "github": null,
     "links": null,
     "content": ""
@@ -93,7 +89,20 @@
     "url": "https://mattckissel.com/tags/ink/",
     "summary": "",
     "tags": null,
-    "tech": null,
+    "categories": null,
+    "skills": null,
+    "github": null,
+    "links": null,
+    "content": ""
+  },
+  {
+    "title": "games",
+    "date": "2024-04-21",
+    "url": "https://mattckissel.com/tags/games/",
+    "summary": "",
+    "tags": null,
+    "categories": null,
+    "skills": null,
     "github": null,
     "links": null,
     "content": ""

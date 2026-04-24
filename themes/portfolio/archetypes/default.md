@@ -2,14 +2,14 @@
 title = '{{ replace .File.ContentBaseName "-" " " | title }}'
 date = {{ .Date }}
 draft = true 
-#summary shows on list pages and on portfolio
+#summary shows on list pages and on the portfolio
 summary = '{{ replace .File.ContentBaseName "-" " " | title }}' 
-#tags - searchable on the blog, add "portfolio" to display this page on the portfolio 
+#tags - searchable on the blog
 tags = [] 
-#categories - use the 'story' for custom story styling, not sure if it has other uses
+#categories - add "portfolio" to display this page on the portfolio 
 categories = [] 
-#tech stack involved in this project, will show up as badges on the portfolio
-tech = []
+#skills involved in this project, will show up as badges on the portfolio
+skills = []
 #link to related github repository (if exists)
 github = "" 
 links = [

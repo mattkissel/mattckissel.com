@@ -4,8 +4,9 @@
     "date": "2026-04-21",
     "url": "https://mattckissel.com/posts/projects/trivia-ticklers/",
     "summary": "A Phone Trivia Game in React that exports to a scoreboard",
-    "tags": ["web design","react","trivia","portfolio"],
-    "tech": ["React","Vite","IndexedDB"],
+    "tags": ["web design","react","trivia"],
+    "categories": ["programming","portfolio"],
+    "skills": ["React","Vite","IndexedDB"],
     "github": "https://github.com/mattkissel/trivia-ticklers",
     "links": [{"label":"Scoreboard","url":"https://trivia.mattckissel.com"},{"label":"Trivia App","url":"https://trivia-ticklers.vercel.app"}],
     "content": "Trivia Ticklers is one of my latest projects. You might be thinking, \u0026ldquo;Oh cool, a mobile app that lets me play trivia with my friends!\u0026rdquo; Wrong.\nTrivia Ticklers is imports a database of trivia and players and generates weekly matchups with a set of questions and lets you keep track of score. It is purpose built for a very specific type of trivia I play with some friends and family. Only the trivia master needs to use the app and everyone else just needs to answer their phone.\nAll the data is stored locally, so don\u0026rsquo;t go rogue and clear your cache, or at least export a backup of the data first.\nThe game exports a scoreboard JSON file which is used in the scoreboard site.\nThere is much refactoring to be done, but this years trivia has already started so it will be at least 6 more weeks before any more work is done on the app.\nI think the dream version of it would have a phone tree system where after a player is asked their questions, they would call the next person or group of people. Because as it is, the trivia master is a lot of work.\n"
