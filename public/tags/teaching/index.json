@@ -2,12 +2,12 @@
   {
     "title": "GaijinSensei.com Released",
     "date": "2025-11-19",
-    "url": "https://mattckissel.com/posts/gaijin-sensei/",
+    "url": "https://mattckissel.com/posts/projects/gaijin-sensei/",
     "summary": "GaijinSensei.com - An Online Collection of ESOL Lessons",
-    "tags": ["web design","english","teaching"],
-    "tech": null,
-    "github": null,
-    "demo": null,
+    "tags": ["web design","english","teaching","portfolio"],
+    "tech": ["Google Drive","Zensical","Markdown"],
+    "github": "https://github.com/mattkissel/gaijinsensei.com",
+    "links": [{"label":"GaijinSensei.com","url":"https://gaijinsensei.com/"}],
     "content": "I have released my website GaijinSensei.com, a online resource full of English teaching and learning materials. It\u0026rsquo;s still a work in progress and the framework it is built on, Zensical, is still in alpha.\nFeel free to check it out as I slowly but surely add and reorganize the content posted there.\n"
   }
 ]

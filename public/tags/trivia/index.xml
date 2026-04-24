@@ -9,10 +9,10 @@
     <lastBuildDate>Tue, 21 Apr 2026 23:55:45 -0400</lastBuildDate><atom:link href="https://mattckissel.com/tags/trivia/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Trivia Ticklers - The Phone Trivia Game</title>
-      <link>https://mattckissel.com/posts/trivia-ticklers/</link>
+      <link>https://mattckissel.com/posts/projects/trivia-ticklers/</link>
       <pubDate>Tue, 21 Apr 2026 23:55:45 -0400</pubDate>
       
-      <guid>https://mattckissel.com/posts/trivia-ticklers/</guid>
+      <guid>https://mattckissel.com/posts/projects/trivia-ticklers/</guid>
       <description>A Phone Trivia Game in React that exports to a scoreboard</description>
     </item>
     

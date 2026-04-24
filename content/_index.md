@@ -9,8 +9,8 @@ Hey, welcome to the website.
 I'm Matt Kissel, an IT jack of all trades, as well as a ESOL teacher. This is my simple site where I post what I'm working on and bits of what's going on in my life. Thanks for popping in. 
 
 Whether you're into 
-[ESOL/ESL]({{< relref "/posts/gaijin-sensei" >}}), [text adventures]({{< relref "/posts/games/champlains-treasure" >}}), 
-[trivia]({{< relref "/posts/trivia-ticklers" >}}), 
-[dinosaurs]({{< relref "/posts/dinosauroscopes" >}}), 
+[ESOL/ESL]({{< relref "/posts/projects/gaijin-sensei" >}}), [text adventures]({{< relref "/posts/games/champlains-treasure" >}}), 
+[trivia]({{< relref "/posts/projects/trivia-ticklers" >}}), 
+[dinosaurs]({{< relref "/posts/projects/dinosauroscopes" >}}), 
 horoscopes, 
-or even [dinosauroscopes]({{< relref "/posts/dinosauroscopes" >}}) I might have a project you're interested in checking out.
+or even [dinosauroscopes]({{< relref "/posts/projects/dinosauroscopes" >}}) I might have a project you're interested in checking out.

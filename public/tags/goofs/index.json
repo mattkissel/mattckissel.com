@@ -2,12 +2,12 @@
   {
     "title": "Dinosauroscopes",
     "date": "2025-07-14",
-    "url": "https://mattckissel.com/posts/dinosauroscopes/",
+    "url": "https://mattckissel.com/posts/projects/dinosauroscopes/",
     "summary": "Find out what dinosaur you are, and get your daily dinosauroscope",
-    "tags": ["web design","goofs"],
-    "tech": null,
-    "github": null,
-    "demo": null,
+    "tags": ["web design","goofs","portfolio"],
+    "tech": ["Javascript","Puter.js","AI"],
+    "github": "https://github.com/mattkissel/dinosauroscopes",
+    "links": [{"label":"Live Site","url":"https://mattkissel.github.io/dinosauroscopes/"}],
     "content": "I recently made a site that generates a daily Dinosauroscopes using Puter.js. It makes a query once a day (for that visitor) and retrieves a dinosaur based horoscope. In order to get your daily dinosauroscope you need to accept the pop-up message from Puter.\nIf you don\u0026rsquo;t want to give it permission to run the query or hate the use of AI, feel free to click cancel and enjoy the Quiz and \u0026ldquo;Dive into a Dino\u0026rdquo; features.\nhttps://mattkissel.github.io/dinosauroscopes/\n"
   }
 ]

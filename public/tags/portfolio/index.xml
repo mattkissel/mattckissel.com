@@ -9,11 +9,38 @@
     <lastBuildDate>Tue, 21 Apr 2026 23:55:45 -0400</lastBuildDate><atom:link href="https://mattckissel.com/tags/portfolio/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Trivia Ticklers - The Phone Trivia Game</title>
-      <link>https://mattckissel.com/posts/trivia-ticklers/</link>
+      <link>https://mattckissel.com/posts/projects/trivia-ticklers/</link>
       <pubDate>Tue, 21 Apr 2026 23:55:45 -0400</pubDate>
       
-      <guid>https://mattckissel.com/posts/trivia-ticklers/</guid>
+      <guid>https://mattckissel.com/posts/projects/trivia-ticklers/</guid>
       <description>A Phone Trivia Game in React that exports to a scoreboard</description>
+    </item>
+    
+    <item>
+      <title>GaijinSensei.com Released</title>
+      <link>https://mattckissel.com/posts/projects/gaijin-sensei/</link>
+      <pubDate>Wed, 19 Nov 2025 14:51:43 -0500</pubDate>
+      
+      <guid>https://mattckissel.com/posts/projects/gaijin-sensei/</guid>
+      <description>GaijinSensei.com - An Online Collection of ESOL Lessons</description>
+    </item>
+    
+    <item>
+      <title>Dinosauroscopes</title>
+      <link>https://mattckissel.com/posts/projects/dinosauroscopes/</link>
+      <pubDate>Mon, 14 Jul 2025 23:51:31 -0500</pubDate>
+      
+      <guid>https://mattckissel.com/posts/projects/dinosauroscopes/</guid>
+      <description>Find out what dinosaur you are, and get your daily dinosauroscope</description>
+    </item>
+    
+    <item>
+      <title>Champlains Treasure</title>
+      <link>https://mattckissel.com/posts/games/champlains-treasure/</link>
+      <pubDate>Sun, 21 Apr 2024 19:26:58 -0400</pubDate>
+      
+      <guid>https://mattckissel.com/posts/games/champlains-treasure/</guid>
+      <description>A real-life and online hunt for the treasure of Samuel de Champlain</description>
     </item>
     
   </channel>
