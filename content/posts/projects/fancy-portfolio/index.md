@@ -1,7 +1,7 @@
 +++
 title = 'Fancy Portfolio'
 date = 2026-04-24T01:45:41-04:00
-draft = true
+draft = false
 #summary shows on list pages and on portfolio
 summary = 'A fancy portfolio, that grabs from a blog and freshens things up a bit' 
 #tags - searchable on the blog, add "portfolio" to display this page on the portfolio 
