@@ -5,7 +5,7 @@ draft = true
 #summary shows on list pages and on portfolio
 summary = 'A fancy portfolio, that grabs from a blog and freshens things up a bit' 
 #tags - searchable on the blog, add "portfolio" to display this page on the portfolio 
-tags = ["Portfolio"] 
+tags = ["portfolio"] 
 #categories - use the 'story' for custom story styling, not sure if it has other uses
 categories = [] 
 #tech stack involved in this project, will show up as badges on the portfolio
