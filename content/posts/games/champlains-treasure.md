@@ -1,5 +1,5 @@
 +++
-title = "Champlains Treasure"
+title = "Champlain's Treasure"
 date = 2024-04-21T19:26:58-04:00
 draft = false
 summary = "A real-life and online hunt for the treasure of Samuel de Champlain"

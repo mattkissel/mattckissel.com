@@ -1,0 +1,8 @@
+{{ $src := .Get "src" }}
+{{ $width := .Get "width" }}
+<div class="video-container">
+<video controls preload="metadata" style="width: {{ $width }};">
+  <source src="{{ $src }}" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+</div>

@@ -2,7 +2,7 @@
 title = "Trivia Ticklers - The Phone Trivia Game"
 date = 2026-04-21T23:55:45-04:00
 draft = false
-summary = "A Phone Trivia Game in React that exports to a scoreboard"
+summary = "A phone trivia game in React that exports to a scoreboard"
 tags = ["web design", "react", "trivia"]
 categories = ["programming" , "portfolio"]
 skills = ["React", "Vite", "IndexedDB"]
